@@ -5,12 +5,19 @@ This folder contains practical activities and datasets for Lab Sheet 02 of the I
 📂 Folder Structure
 File/Folder	Description
 .ipynb_checkpoints/	Auto-generated Jupyter checkpoint files. Can be ignored.
+
 Airdata.csv	Dataset likely related to air quality or environmental metrics. Used in data analysis exercises.
-IT3080_LabSheet02_2023.pdf	The official lab sheet with instructions and tasks for Lab 02.
-Lab2Activity1.ipynb	Jupyter Notebook for Activity 1. Typically includes basic data loading, cleaning, and visualization.
+
+IT3080_LabSheet02_2023.pdf	- The official lab sheet with instructions and tasks for Lab 02.
+
+Lab2Activity1.ipynb	  -  Jupyter Notebook for Activity 1. Typically includes basic data loading, cleaning, and visualization.
+
 Lab2Activity2.ipynb	Jupyter Notebook for Activity 2. Likely builds on Activity 1 with more advanced analysis or machine learning.
+
 movie_dataset.csv	Dataset containing movie-related data (e.g., ratings, genres, revenue). Used for exercises in data manipulation.
+
 store_data.csv	Dataset related to retail or sales data. Useful for business analytics tasks.
+
 📓 Activities Summary
 🔹 Lab2Activity1.ipynb
 Focus: Introductory data analysis
